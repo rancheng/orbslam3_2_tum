@@ -2,7 +2,7 @@
 
 convert orb-slam3 pose.txt file to tum format.
 
-Since the timestamp format of TUM and ORB-SLAM3 output result is different, so we need to convert the time-stamp to be consistent to TUM format.
+Since the timestamp format of TUM and ORB-SLAM3 output result is different, so we need to convert the time-stamp to be consistent with TUM format.
 
 The following python script is used to convert the ORB-SLAM3 result file to TUM format.
 
